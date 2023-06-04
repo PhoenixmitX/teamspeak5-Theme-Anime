@@ -13,7 +13,6 @@
 /*Image Background Sever Channel Root*/
 .ts-server-tree-item-root {
     background-image:url(Rem_backgr.png);  /*https://i.imgur.com/KOnuRG9.png*/
-    background-position:center;
     background-repeat: no-repeat;
     background-position: 50% 100%;
 }

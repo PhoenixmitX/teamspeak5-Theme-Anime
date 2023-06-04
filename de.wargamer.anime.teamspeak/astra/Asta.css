@@ -23,7 +23,6 @@ div.spacer span.tsv-tree-preserve-spaces {
 /*Image Background Sever Channel Root*/
 .ts-server-tree-item-root {
   background-image: url(Asta.png);
-  background-position: center;
   background-repeat: no-repeat;
   background-size: 90%;
   background-position: 100% 100%;
