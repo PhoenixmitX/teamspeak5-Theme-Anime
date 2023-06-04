@@ -11,4 +11,4 @@ jq -c --slurpfile themes build/themes.json '.content.themes |= $themes[0]' style
 
 # zip files
 cd build
-zip -r9 AnimeSpeak.zip de.wargamer.anime.teamspeak
+zip -r9q AnimeSpeak.zip de.wargamer.anime.teamspeak
