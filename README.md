@@ -12,25 +12,41 @@
 
 
 <h3>This little Theme Pack contains:</h3>
--changed backgrounds behind the Channels<br>
--changed accent colors to fit to the background<br>
-(-with chat bubbles)<br>
--changed the favorite icon<br>
--changed some Group Chat Icons<br><br>
+
+- changed backgrounds behind the Channels<br>
+- changed accent colors to fit to the background<br>
+- changed the favorite icon<br>
+- changed some Group Chat Icons<br><br>
 
 
-How to install
-<ul>
-  <li> Download the file from GitHub </li>
-<li> put the "de.wargamer.anime.teamspeak" folder in </li>
-  <ul>
-       <li>Windows: %appdata%\TeamSpeak\Default\extensions</li>
-       <li>Mac: ~/Library/Preferences/TeamSpeak/Default/extensions</li>
-       <li>Linux: ~/.config/TeamSpeak/Default/extensions</li>
-    </ul>
+<h2>How to install</h2>
 
-<li> After successfully Downloading and Placing the folder in the Directroy go in TeamSpeak to
-Settings > Apperance and activated the option User Themes</li>
-  </ul>
+ <br>
+<h3>Install via Theme TS5 Manager (Windows only)</h3>
 
-Previews are [*here*](https://community.teamspeak.com/t/ts5-theme-pack-anime-theme-for-teamspeak-5/24166)
+
+- Donwload installer from <a href="https://github.com/Wargamer-Senpai/updateTS5Themes/releases/latest/download/TS5ThemeManager.exe">here</a> (<a href="https://github.com/Wargamer-Senpai/TS5-Theme-Manager">Github Project</a>)
+  
+- execute installer and follow installation, you can choose between multiple themes when installing
+
+<img src="https://user-images.githubusercontent.com/77844672/185554262-1a36507a-0219-4299-9bbc-cdfff4a79517.png" width="27%" height="27%">
+
+  
+ <br> <br>  
+<h3>How to install manually</h3>
+
+- Download the latest release from <a href="https://github.com/Wargamer-Senpai/teamspeak5-Theme-Anime/releases/latest/download/de.wargamer.anime.teamspeak.zip">here </a> 
+- extract and put the "de.wargamer.anime.teamspeak" folder in
+
+  - <b>Windows:</b> <i> %appdata%\TeamSpeak\Default\extensions </i>
+
+  - <b>Mac:</b> <i> ~/Library/Preferences/TeamSpeak/Default/extensions </i>
+
+  - <b>Linux:</b> <i> ~/.config/TeamSpeak/Default/extensions </i>
+
+
+- After successfully Downloading and Placing the folder in the Directory, go in TeamSpeak to <br> <i>Settings > Apperance</i>  and activated the option <i>User Themes</i>
+
+
+
+Previews are located [*here*](https://community.teamspeak.com/t/ts5-theme-pack-anime-theme-for-teamspeak-5/24166)
